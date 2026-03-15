@@ -6,4 +6,3 @@ def promedio_estudiante(calificaciones):
         return float(resultado)
 calificaciones=[]
 print(promedio_estudiante(calificaciones))
-    
