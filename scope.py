@@ -9,4 +9,4 @@ def set_globals(some_int, some_str):
 
 def get_globals():
     return (int_value, str_value) 
-    ,,
+    
